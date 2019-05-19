@@ -14,9 +14,9 @@ class BaseURL{
     static let pathCharacters = "/characters?"
     static let limit = 50
     /// - add private key
-    static private let privateKey = "40d66f9343d20725ba5d8bc43c747efc258d1489"
+    static private let privateKey = ""
     /// - add public key
-    static private let publicKey = "e277ffe5bcc95e3e8772ec03e811890e"
+    static private let publicKey = ""
     
     
     static func getCredentials() -> String{
