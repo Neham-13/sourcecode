@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+            timestampString = "579986452.6221941"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CharacterTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvelicious.CharacterTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; Marvelicious.CharacterTableViewController"
+                  moduleName = "Marvelicious"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nehamishra/Downloads/Marvelicious/Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+                  timestampString = "579963266.204824"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvelicious.CharacterTableViewController.init(style: __C.UITableViewStyle) -&gt; Marvelicious.CharacterTableViewController"
+                  moduleName = "Marvelicious"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nehamishra/Downloads/Marvelicious/Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+                  timestampString = "579963266.23145"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvelicious.CharacterTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Marvelicious.CharacterTableViewController"
+                  moduleName = "Marvelicious"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nehamishra/Downloads/Marvelicious/Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+                  timestampString = "579963266.234675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvelicious.CharacterTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Marvelicious.CharacterTableViewController"
+                  moduleName = "Marvelicious"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nehamishra/Downloads/Marvelicious/Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+                  timestampString = "579963266.237589"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvelicious.CharacterTableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Marvelicious.CharacterTableViewController&gt;"
+                  moduleName = "Marvelicious"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nehamishra/Downloads/Marvelicious/Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+                  timestampString = "579963266.2404931"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvelicious.CharacterTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Marvelicious.CharacterTableViewController&gt;"
+                  moduleName = "Marvelicious"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nehamishra/Downloads/Marvelicious/Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+                  timestampString = "579963266.243333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvelicious.CharacterTableViewController.__deallocating_deinit"
+                  moduleName = "Marvelicious"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nehamishra/Downloads/Marvelicious/Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+                  timestampString = "579963266.2457449"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+            timestampString = "579986452.623144"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+            timestampString = "579986452.623641"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+            timestampString = "579986452.624036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvelicious/TableView+Cells/CharacterTableViewController.swift"
+            timestampString = "579986452.624428"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "CharacterTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
